@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyVisitingCard</string>
+    <string name="my_name">Trisha Sarkar</string>
+    <string name="profession">Student</string>
+    <string name="contact_no">+88 01614434451</string>
+    <string name="gmail">jucse29.359@gmail.com</string>
+    <string name="website">trisha174.com</string>
+    <string name="location">Savar, Jahangirnagar University</string>
+</resources>
